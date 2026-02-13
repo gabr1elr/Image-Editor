@@ -4,7 +4,7 @@ This project is a high-performance command-line image processing engine written 
 The program emphasizes manual memory management, pointer arithmetic, and algorithmic efficiency in spatial domain image processing.
 The system implements a command-line interface for real-time interaction, allowing users to perform complex transformations, statistical analysis, and convolutional filtering on specific Regions of Interest.
 
-
+ 
 Core Features
 1. Format Support and I/O
 Netpbm Compatibility: Full support for P1 (Black and White), P2 (Grayscale), and P3 (RGB) text-based formats.
