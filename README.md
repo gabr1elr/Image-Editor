@@ -13,7 +13,7 @@ Persistence: Standardized SAVE functionality that preserves the current state of
 
 2. Spatial Domain Transformations
 Selection Management: Implementation of coordinate-based selection (x1, y1, x2, y2).
-Includes automatic coordinate ordering to ensure robustness against user input errors.
+Includes automatic coordinate ordering to ensure robustness against user input errors. 
 Image Cropping: Efficient sub-matrix extraction by reallocating memory and re-mapping pixel data to a new reduced-dimension grid.
 Rotation Logic: Supports +-90 degrees, +-180 degrees, +-270 degrees and +-360 degrees rotations. The algorithm utilizes matrix transposition and reversal techniques to perform 90 degrees clockwise increments.
 
