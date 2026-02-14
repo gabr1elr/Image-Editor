@@ -9,7 +9,7 @@ Core Features
 1. Format Support and I/O
 Netpbm Compatibility: Full support for P1 (Black and White), P2 (Grayscale), and P3 (RGB) text-based formats.
 Dynamic Parsing: Custom parser designed to handle metadata and skip comments (#) during the header reading phase.
-Persistence: Standardized SAVE functionality that preserves the current state of the image to the local filesystem.
+Persistence: Standardized SAVE functionality that preserves the current state of the image to the local filesystem. 
 
 2. Spatial Domain Transformations
 Selection Management: Implementation of coordinate-based selection (x1, y1, x2, y2).
